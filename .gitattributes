@@ -1,0 +1,10 @@
+docs/index.html linguist-vendored
+
+*.ico binary
+dist/* linguist-vendored
+go.sum linguist-generated
+*.bat text eol=crlf
+*.min.css linguist-generated
+*.tsx linguist-detectable
+
+*.html linguist-vendored
